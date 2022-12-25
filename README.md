@@ -1,2 +1,2 @@
 # AutomationScripts
-these are my shell scripts for automation CHECK THEM OUT!! 
+These are my shell scripts for automation CHECK THEM OUT!! 
